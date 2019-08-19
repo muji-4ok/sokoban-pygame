@@ -1,2 +1,2 @@
 # sokoban-pygame
-My old project very far from being done
+My old project. It is very far from being done
